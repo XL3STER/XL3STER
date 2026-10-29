@@ -17,7 +17,7 @@
 
 ---
 
-- 👨‍💻 PS3 SPRX/RTM Tool Developer
+- 👨‍💻 PS3/4 SPRX/RTM Tool Developer
 
 ## 🛠 &nbsp;Tech Stack
 
